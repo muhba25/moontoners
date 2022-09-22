@@ -21,8 +21,8 @@ class MovieTableSeeder extends Seeder
                 'slug' => 'the-shawshank-redemption',
                 'category' => 'Drama',
                 'video_url' => 'https://www.youtube.com/watch?v=6hB3S9bIaco',
-                'thumbnail' => 'https://i.ytimg.com/vi/6hB3S9bIaco/maxresdefault.jpg',
-                'rating' => 9.3,
+                'thumbnail' => 'https://occ.a.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY1ykl4MOi7_v8_OVyILpQG-b5oKHVeqFvGO7eCN-g8SYdxBDJwoLaNt5gHB2s-oQbzfNN9EGX6iLDXLicKvqDa3QIR9kIUFujun.jpg',
+                'rating' => 4.3,
                 'is_featured' => 1,
             ],
             [
@@ -30,8 +30,8 @@ class MovieTableSeeder extends Seeder
                 'slug' => 'the-godfather',
                 'category' => 'Crime',
                 'video_url' => 'https://www.youtube.com/watch?v=sY1S34973zA',
-                'thumbnail' => 'https://i.ytimg.com/vi/sY1S34973zA/maxresdefault.jpg',  
-                'rating' => 9.2,
+                'thumbnail' => 'https://m.media-amazon.com/images/M/MV5BMTIwNjQ5MjQ5M15BMl5BanBnXkFtZTYwNjQ5NjQyMzE@._V1_.jpg',  
+                'rating' => 4.2,
                 'is_featured' => 0,
             ],
             [
@@ -39,8 +39,8 @@ class MovieTableSeeder extends Seeder
                 'slug' => 'the-dark-knight',
                 'category' => 'Action',
                 'video_url' => 'https://www.youtube.com/watch?v=EXeTwQWrcwY',
-                'thumbnail' => 'https://i.ytimg.com/vi/EXeTwQWrcwY/maxresdefault.jpg',
-                'rating' => 9.0,
+                'thumbnail' => 'https://m.media-amazon.com/images/M/MV5BMTIwNjQ5MjQ5M15BMl5BanBnXkFtZTYwNjQ5NjQyMzE@._V1_.jpg',
+                'rating' => 4.0,
                 'is_featured' => 0,
             ]
             ];
